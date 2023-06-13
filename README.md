@@ -1,7 +1,7 @@
 # ONEI: Unveiling Route and Phase of Breathing from Snoring Sounds
 
 ## Snoring Sound Demo
-Visit our demo website for audio samples.
+Visit our [demo website](https://emleeee.github.io/ONEI-demo/) for audio samples.
 
 
 ## Download
